@@ -2,3 +2,34 @@ body {
   background-color: #f4eea9;
   text-align: center;
 }
+
+h1 {
+  text-decoration: underline;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+h6 {
+  margin-top: 0;
+}
+
+img {
+  height: 400px;
+  width: auto;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+
+a {
+  padding: 20px;
+  color: #519259;
+}
+
+a:hover {
+  color: #064635;
+}
